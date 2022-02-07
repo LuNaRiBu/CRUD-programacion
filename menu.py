@@ -15,4 +15,7 @@ def Menu () :
     8 - Calcular la edad promedio de los estudiantes
     0 - Salir """)
     print("-------------------------------")
+
+
+def Ingresar_nombre() :
     
