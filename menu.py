@@ -18,4 +18,8 @@ def Menu () :
 
 
 def Ingresar_nombre() :
+
+
+notas = []
+edades = []
     
